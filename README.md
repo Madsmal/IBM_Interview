@@ -1,7 +1,6 @@
-# IBM_Interview
+# Feature Toggle
 
-
-This project allows a user to login into an application where it is possible to logout or change the password of the user. The application is connected to a MySQL database where different queries will be run from Java and executed in MySQL. It is possible to create users, change passwords and login. 
+This chosen project was Feature Toggle. This application allows a user to login into an application where it is possible to logout or change the password of the user. The application is connected to a MySQL database where different queries will be run from Java and executed in MySQL. It is possible to create users, change passwords and login. 
 
 0) Git clone project: https://github.com/Madsmal/IBM_Interview.
 
